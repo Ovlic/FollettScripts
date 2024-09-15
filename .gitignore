@@ -24,6 +24,7 @@ extracted_site.xml
 # Other Folders
 create_user_acc/
 login_user_acc/
+jamf_testing/
 
 # Other files
 credentials.json
