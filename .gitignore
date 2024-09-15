@@ -6,7 +6,21 @@ __pycache__/
 # macOS
 .DS_Store
 
-# Local Files
+# CSV Files (from data extraction)
+*.csv
+
+# Local Folders
 extract_site/
 outputs/
 other/
+
+# Local Files
+# These files are so big they cause editors to freeze
+circstat.xml
+extracted_site_formatted.xml
+extracted_site_other.txt
+extracted_site.xml
+
+# Other files
+credentials.json
+follett_updater.zip
