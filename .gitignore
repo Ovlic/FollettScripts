@@ -21,6 +21,10 @@ extracted_site_formatted.xml
 extracted_site_other.txt
 extracted_site.xml
 
+# Other Folders
+create_user_acc/
+login_user_acc/
+
 # Other files
 credentials.json
 follett_updater.zip
