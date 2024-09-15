@@ -24,3 +24,5 @@ extracted_site.xml
 # Other files
 credentials.json
 follett_updater.zip
+parent_info.json
+test.py
