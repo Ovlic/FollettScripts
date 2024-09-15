@@ -50,7 +50,7 @@ with open('patrons_7_11_24.csv') as f: # Open CSV
 
                     break
         
-        if linesplt[2] == '"Buck"': continue # Skipping me
+        if linesplt[2] == '"Buck"': continue 
         if linesplt[9] == '"Faculty"': continue # skipping teachers since they should already have usernames
         new_line = ",".join(linesplt).strip()
         newfile += new_line + "\n"
